@@ -4,13 +4,13 @@
       "id": 1,
       "text": "Learn Vanilla JavaScript",
       "completed": true,
-      "color": "green"
+      "color": "red"
     },
     {
       "id": 2,
       "text": "Learn Modern ES6+ JavaScript",
       "completed": false,
-      "color": "red"
+      "color": "green"
     },
     {
       "id": 3,
@@ -22,13 +22,55 @@
       "text": "Learn Redux Basics",
       "completed": true,
       "id": 4,
-      "color": "green"
+      "color": "red"
     },
     {
       "text": "Learn Redux fundamentals test",
       "completed": false,
       "id": 5,
-      "color": "red"
+      "color": "yellow"
+    },
+    {
+      "text": "test",
+      "completed": false,
+      "color": "",
+      "id": 6
+    },
+    {
+      "text": "jkldjf",
+      "completed": false,
+      "color": "",
+      "id": 7
+    },
+    {
+      "text": "fkdmlr",
+      "completed": false,
+      "color": "",
+      "id": 8
+    },
+    {
+      "text": "kjgoifgj",
+      "completed": false,
+      "color": "",
+      "id": 9
+    },
+    {
+      "text": "ismail",
+      "completed": false,
+      "color": "",
+      "id": 10
+    },
+    {
+      "text": "jnfjhdsfpoh",
+      "completed": true,
+      "color": "",
+      "id": 11
+    },
+    {
+      "text": "alamin",
+      "completed": false,
+      "color": "",
+      "id": 12
     }
   ],
   "tags": [
@@ -220,10 +262,9 @@
       "unlikes": 0
     }
   ],
-  "todoFilters": {
+  "filters": {
     "status": "All",
-    "colors": [
-      "green"
-    ]
+    "colors": [],
+    "deletedID": []
   }
 }
